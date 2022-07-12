@@ -13,7 +13,7 @@ global.ownernumber = 6281387089252
 global.owner = [
   ['0'],
   ['0'],
-  [`${6281387089252.env.NOWNER}`, `${𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯.env.NAMAOWNER}`, true]
+  [`${6281387089252}`, `${𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯.}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [`${6281387089252.env.MODERATOR}`] // Want some help?
